@@ -1,4 +1,4 @@
-# person_action_detection
+# Person Action Detection via Keypoints
 
 Example of Detection based on Keypoints
 
